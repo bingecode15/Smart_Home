@@ -1,16 +1,11 @@
-# smart_home
+## Smart Home IOT App - Flutter UI
+We created a simple and clean Smart Home application UI using Flutter.
 
-A new Flutter application.
+[Watch it on Youtube](https://youtu.be/R5QS1e_ADFw)
 
-## Getting Started
+![Mock 2](https://user-images.githubusercontent.com/69669632/105882392-9a172380-602b-11eb-9b03-5c62cb7bae2d.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
